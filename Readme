@@ -1,0 +1,3 @@
+In the Server folder install Nodejs server dependencies and type ""node server.js" to start the server in your local host in port 5000
+Then in Client/whiteboard-collab install reactjs dependencies and type "npm start" to start the whiteboard integrated with server.
+The person who are connected in the nodejs server can edit the whiteboard
